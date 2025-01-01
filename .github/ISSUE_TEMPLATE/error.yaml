@@ -1,7 +1,7 @@
 name: Error Report
 description: File a error report
 title: "[Error]: "
-labels: [ Error ]
+labels: [ bug ]
 body:
   - type: markdown
     attributes:
